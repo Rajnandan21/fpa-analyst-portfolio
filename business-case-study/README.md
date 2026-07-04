@@ -15,10 +15,10 @@ Excel (Power Query, Power Pivot) for segmentation and profitability analysis; NP
 - **3.2-month average payback period** on targeted promotional spend for the Growth Potential segment
 
 ## Presentation Preview
-![Title Slide](./case-study-title.jpg)
-![Key Findings](./case-study-findings.jpg)
+![Title Slide](./case-study-title.jpeg)
+![Key Findings](./case-study-findings.jpeg)
 
-## Financial Impact (Before vs. After)
+
 | Metric | Before | After | Change |
 |---|---|---|---|
 | Gross Margin % | 34.2% | 37.0% | +2.8pp |
