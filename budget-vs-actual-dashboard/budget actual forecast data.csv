@@ -1,0 +1,217 @@
+Month,MonthIndex,Type,Category,Budget,Actual,Forecast
+Jan-25,1,Revenue,Retail Sales,491348.0,489561.0,487111.0
+Jan-25,1,Revenue,Wholesale,327565.0,351453.0,331577.0
+Jan-25,1,Revenue,Online Sales,214965.0,226181.0,208766.0
+Jan-25,1,Revenue,Foodservice,143310.0,141245.0,139754.0
+Jan-25,1,Expense,Cost of Goods Sold,665367.0,710405.0,710046.0
+Jan-25,1,Expense,Payroll,245674.0,236635.0,249638.0
+Jan-25,1,Expense,Marketing,66537.0,72968.0,70956.0
+Jan-25,1,Expense,Logistics & Distribution,97246.0,101283.0,99468.0
+Jan-25,1,Expense,Admin & Overheads,56300.0,56849.0,57434.0
+Feb-25,2,Revenue,Retail Sales,511219.0,465576.0,466917.0
+Feb-25,2,Revenue,Wholesale,340813.0,315480.0,301434.0
+Feb-25,2,Revenue,Online Sales,223658.0,216492.0,197162.0
+Feb-25,2,Revenue,Foodservice,149106.0,133695.0,135090.0
+Feb-25,2,Expense,Cost of Goods Sold,692276.0,719032.0,743540.0
+Feb-25,2,Expense,Payroll,255610.0,248493.0,255423.0
+Feb-25,2,Expense,Marketing,69228.0,75740.0,79311.0
+Feb-25,2,Expense,Logistics & Distribution,101179.0,92777.0,86293.0
+Feb-25,2,Expense,Admin & Overheads,58577.0,59993.0,62979.0
+Mar-25,3,Revenue,Retail Sales,523653.0,522780.0,545189.0
+Mar-25,3,Revenue,Wholesale,349102.0,355088.0,358669.0
+Mar-25,3,Revenue,Online Sales,229098.0,233856.0,236179.0
+Mar-25,3,Revenue,Foodservice,152732.0,148207.0,160516.0
+Mar-25,3,Expense,Cost of Goods Sold,709114.0,748262.0,731563.0
+Mar-25,3,Expense,Payroll,261827.0,257346.0,246627.0
+Mar-25,3,Expense,Marketing,70911.0,72955.0,68790.0
+Mar-25,3,Expense,Logistics & Distribution,103640.0,101567.0,104603.0
+Mar-25,3,Expense,Admin & Overheads,60002.0,62019.0,63442.0
+Apr-25,4,Revenue,Retail Sales,525985.0,482506.0,499109.0
+Apr-25,4,Revenue,Wholesale,350657.0,347358.0,368064.0
+Apr-25,4,Revenue,Online Sales,230119.0,225666.0,242722.0
+Apr-25,4,Revenue,Foodservice,153412.0,157871.0,163182.0
+Apr-25,4,Expense,Cost of Goods Sold,712272.0,695496.0,684193.0
+Apr-25,4,Expense,Payroll,262993.0,256904.0,267190.0
+Apr-25,4,Expense,Marketing,71227.0,69314.0,68992.0
+Apr-25,4,Expense,Logistics & Distribution,104101.0,111403.0,113701.0
+Apr-25,4,Expense,Admin & Overheads,60269.0,59337.0,60013.0
+May-25,5,Revenue,Retail Sales,518242.0,467288.0,435555.0
+May-25,5,Revenue,Wholesale,345495.0,355999.0,400133.0
+May-25,5,Revenue,Online Sales,226731.0,258645.0,287974.0
+May-25,5,Revenue,Foodservice,151154.0,157190.0,153465.0
+May-25,5,Expense,Cost of Goods Sold,701787.0,746766.0,711085.0
+May-25,5,Expense,Payroll,259121.0,214661.0,218303.0
+May-25,5,Expense,Marketing,70179.0,74531.0,76633.0
+May-25,5,Expense,Logistics & Distribution,102569.0,112109.0,115542.0
+May-25,5,Expense,Admin & Overheads,59382.0,60616.0,58061.0
+Jun-25,6,Revenue,Retail Sales,503170.0,498609.0,472101.0
+Jun-25,6,Revenue,Wholesale,335447.0,326786.0,354767.0
+Jun-25,6,Revenue,Online Sales,220137.0,223376.0,227163.0
+Jun-25,6,Revenue,Foodservice,146758.0,139629.0,155983.0
+Jun-25,6,Expense,Cost of Goods Sold,681376.0,600295.0,578039.0
+Jun-25,6,Expense,Payroll,251585.0,265864.0,257881.0
+Jun-25,6,Expense,Marketing,68138.0,64891.0,66210.0
+Jun-25,6,Expense,Logistics & Distribution,99586.0,104058.0,106899.0
+Jun-25,6,Expense,Admin & Overheads,57655.0,54693.0,56341.0
+Jul-25,7,Revenue,Retail Sales,485523.0,444407.0,426058.0
+Jul-25,7,Revenue,Wholesale,323682.0,301097.0,305537.0
+Jul-25,7,Revenue,Online Sales,212417.0,207179.0,198306.0
+Jul-25,7,Revenue,Foodservice,141611.0,141923.0,135387.0
+Jul-25,7,Expense,Cost of Goods Sold,657480.0,637564.0,629609.0
+Jul-25,7,Expense,Payroll,242762.0,234490.0,225053.0
+Jul-25,7,Expense,Marketing,65748.0,60825.0,63498.0
+Jul-25,7,Expense,Logistics & Distribution,96093.0,84172.0,85175.0
+Jul-25,7,Expense,Admin & Overheads,55633.0,52946.0,51447.0
+Aug-25,8,Revenue,Retail Sales,470807.0,412044.0,411478.0
+Aug-25,8,Revenue,Wholesale,313871.0,301682.0,316058.0
+Aug-25,8,Revenue,Online Sales,205978.0,197820.0,188118.0
+Aug-25,8,Revenue,Foodservice,137319.0,125773.0,131188.0
+Aug-25,8,Expense,Cost of Goods Sold,637551.0,659275.0,650067.0
+Aug-25,8,Expense,Payroll,235403.0,258833.0,261590.0
+Aug-25,8,Expense,Marketing,63755.0,62629.0,63927.0
+Aug-25,8,Expense,Logistics & Distribution,93181.0,87024.0,87374.0
+Aug-25,8,Expense,Admin & Overheads,53947.0,50282.0,51440.0
+Sep-25,9,Revenue,Retail Sales,463799.0,484348.0,481965.0
+Sep-25,9,Revenue,Wholesale,309199.0,332504.0,321985.0
+Sep-25,9,Revenue,Online Sales,202912.0,210565.0,209385.0
+Sep-25,9,Revenue,Foodservice,135275.0,124339.0,128188.0
+Sep-25,9,Expense,Cost of Goods Sold,628061.0,692062.0,777725.0
+Sep-25,9,Expense,Payroll,231899.0,233185.0,237670.0
+Sep-25,9,Expense,Marketing,62806.0,69246.0,66338.0
+Sep-25,9,Expense,Logistics & Distribution,91793.0,100147.0,93494.0
+Sep-25,9,Expense,Admin & Overheads,53144.0,49459.0,49015.0
+Oct-25,10,Revenue,Retail Sales,467254.0,454699.0,474493.0
+Oct-25,10,Revenue,Wholesale,311503.0,288216.0,286574.0
+Oct-25,10,Revenue,Online Sales,204424.0,199430.0,200891.0
+Oct-25,10,Revenue,Foodservice,136282.0,142136.0,148103.0
+Oct-25,10,Expense,Cost of Goods Sold,632740.0,644930.0,654816.0
+Oct-25,10,Expense,Payroll,233627.0,234329.0,219687.0
+Oct-25,10,Expense,Marketing,63274.0,56340.0,57149.0
+Oct-25,10,Expense,Logistics & Distribution,92477.0,84778.0,82100.0
+Oct-25,10,Expense,Admin & Overheads,53540.0,54242.0,53480.0
+Nov-25,11,Revenue,Retail Sales,481138.0,454230.0,435766.0
+Nov-25,11,Revenue,Wholesale,320759.0,321599.0,342836.0
+Nov-25,11,Revenue,Online Sales,210498.0,185481.0,183431.0
+Nov-25,11,Revenue,Foodservice,140332.0,149778.0,151556.0
+Nov-25,11,Expense,Cost of Goods Sold,651541.0,628157.0,628969.0
+Nov-25,11,Expense,Payroll,240569.0,246471.0,256488.0
+Nov-25,11,Expense,Marketing,65154.0,58906.0,56876.0
+Nov-25,11,Expense,Logistics & Distribution,95225.0,96804.0,98482.0
+Nov-25,11,Expense,Admin & Overheads,55130.0,55937.0,56858.0
+Dec-25,12,Revenue,Retail Sales,502603.0,533661.0,544686.0
+Dec-25,12,Revenue,Wholesale,335069.0,395342.0,383349.0
+Dec-25,12,Revenue,Online Sales,219889.0,214390.0,200385.0
+Dec-25,12,Revenue,Foodservice,146593.0,152707.0,154359.0
+Dec-25,12,Expense,Cost of Goods Sold,680608.0,674191.0,643276.0
+Dec-25,12,Expense,Payroll,251302.0,280919.0,285624.0
+Dec-25,12,Expense,Marketing,68061.0,71435.0,67592.0
+Dec-25,12,Expense,Logistics & Distribution,99474.0,101469.0,103501.0
+Dec-25,12,Expense,Admin & Overheads,57590.0,63551.0,65047.0
+Jan-26,13,Revenue,Retail Sales,526725.0,566184.0,526574.0
+Jan-26,13,Revenue,Wholesale,351150.0,346043.0,347412.0
+Jan-26,13,Revenue,Online Sales,230442.0,228896.0,225955.0
+Jan-26,13,Revenue,Foodservice,153628.0,150260.0,159068.0
+Jan-26,13,Expense,Cost of Goods Sold,713273.0,695186.0,715764.0
+Jan-26,13,Expense,Payroll,263363.0,274330.0,270440.0
+Jan-26,13,Expense,Marketing,71327.0,71932.0,65091.0
+Jan-26,13,Expense,Logistics & Distribution,104248.0,100451.0,104848.0
+Jan-26,13,Expense,Admin & Overheads,60354.0,58070.0,53294.0
+Feb-26,14,Revenue,Retail Sales,547807.0,585087.0,550948.0
+Feb-26,14,Revenue,Wholesale,365205.0,399719.0,399081.0
+Feb-26,14,Revenue,Online Sales,239666.0,217864.0,211101.0
+Feb-26,14,Revenue,Foodservice,159777.0,177233.0,178695.0
+Feb-26,14,Expense,Cost of Goods Sold,741822.0,738003.0,742647.0
+Feb-26,14,Expense,Payroll,273904.0,271035.0,264022.0
+Feb-26,14,Expense,Marketing,74182.0,76950.0,81468.0
+Feb-26,14,Expense,Logistics & Distribution,108420.0,108979.0,115887.0
+Feb-26,14,Expense,Admin & Overheads,62770.0,66948.0,62879.0
+Mar-26,15,Revenue,Retail Sales,560909.0,588480.0,623890.0
+Mar-26,15,Revenue,Wholesale,373940.0,321070.0,312880.0
+Mar-26,15,Revenue,Online Sales,245398.0,253206.0,242991.0
+Mar-26,15,Revenue,Foodservice,163599.0,163452.0,160844.0
+Mar-26,15,Expense,Cost of Goods Sold,759565.0,714327.0,708382.0
+Mar-26,15,Expense,Payroll,280455.0,271892.0,270255.0
+Mar-26,15,Expense,Marketing,75956.0,75304.0,72897.0
+Mar-26,15,Expense,Logistics & Distribution,111013.0,104859.0,101750.0
+Mar-26,15,Expense,Admin & Overheads,64271.0,65668.0,62659.0
+Apr-26,16,Revenue,Retail Sales,563187.0,611250.0,583090.0
+Apr-26,16,Revenue,Wholesale,375458.0,421839.0,414867.0
+Apr-26,16,Revenue,Online Sales,246394.0,236305.0,229293.0
+Apr-26,16,Revenue,Foodservice,164263.0,168313.0,168717.0
+Apr-26,16,Expense,Cost of Goods Sold,762648.0,715843.0,717918.0
+Apr-26,16,Expense,Payroll,281593.0,288007.0,289214.0
+Apr-26,16,Expense,Marketing,76265.0,81821.0,73398.0
+Apr-26,16,Expense,Logistics & Distribution,111464.0,109443.0,106340.0
+Apr-26,16,Expense,Admin & Overheads,64532.0,66046.0,70978.0
+May-26,17,Revenue,Retail Sales,554681.0,498637.0,478569.0
+May-26,17,Revenue,Wholesale,369788.0,362384.0,377131.0
+May-26,17,Revenue,Online Sales,242673.0,259846.0,251093.0
+May-26,17,Revenue,Foodservice,161782.0,171211.0,170621.0
+May-26,17,Expense,Cost of Goods Sold,751131.0,796760.0,799164.0
+May-26,17,Expense,Payroll,277341.0,286483.0,286721.0
+May-26,17,Expense,Marketing,75113.0,71176.0,68526.0
+May-26,17,Expense,Logistics & Distribution,109781.0,113031.0,109829.0
+May-26,17,Expense,Admin & Overheads,63557.0,59787.0,59277.0
+Jun-26,18,Revenue,Retail Sales,538343.0,556116.0,572405.0
+Jun-26,18,Revenue,Wholesale,358896.0,341460.0,339146.0
+Jun-26,18,Revenue,Online Sales,235525.0,244846.0,237780.0
+Jun-26,18,Revenue,Foodservice,157017.0,167679.0,168913.0
+Jun-26,18,Expense,Cost of Goods Sold,729007.0,685494.0,702982.0
+Jun-26,18,Expense,Payroll,269172.0,264582.0,281322.0
+Jun-26,18,Expense,Marketing,72901.0,72245.0,76676.0
+Jun-26,18,Expense,Logistics & Distribution,106547.0,121223.0,124166.0
+Jun-26,18,Expense,Admin & Overheads,61685.0,63705.0,62852.0
+Jul-26,19,Revenue,Retail Sales,519266.0,524791.0,544702.0
+Jul-26,19,Revenue,Wholesale,346178.0,395705.0,418386.0
+Jul-26,19,Revenue,Online Sales,227179.0,214952.0,227748.0
+Jul-26,19,Revenue,Foodservice,151453.0,144442.0,156550.0
+Jul-26,19,Expense,Cost of Goods Sold,703173.0,755903.0,772397.0
+Jul-26,19,Expense,Payroll,259633.0,241225.0,247667.0
+Jul-26,19,Expense,Marketing,70317.0,67626.0,65689.0
+Jul-26,19,Expense,Logistics & Distribution,102771.0,102189.0,95651.0
+Jul-26,19,Expense,Admin & Overheads,59499.0,59819.0,60730.0
+Aug-26,20,Revenue,Retail Sales,503339.0,534657.0,520302.0
+Aug-26,20,Revenue,Wholesale,335559.0,324205.0,343905.0
+Aug-26,20,Revenue,Online Sales,220211.0,239450.0,221380.0
+Aug-26,20,Revenue,Foodservice,146807.0,152564.0,159466.0
+Aug-26,20,Expense,Cost of Goods Sold,681604.0,653155.0,678991.0
+Aug-26,20,Expense,Payroll,251669.0,247908.0,244124.0
+Aug-26,20,Expense,Marketing,68160.0,63156.0,66556.0
+Aug-26,20,Expense,Logistics & Distribution,99619.0,93619.0,81277.0
+Aug-26,20,Expense,Admin & Overheads,57674.0,52523.0,50809.0
+Sep-26,21,Revenue,Retail Sales,495663.0,446406.0,473785.0
+Sep-26,21,Revenue,Wholesale,330442.0,305352.0,297015.0
+Sep-26,21,Revenue,Online Sales,216852.0,215691.0,220626.0
+Sep-26,21,Revenue,Foodservice,144568.0,128914.0,117630.0
+Sep-26,21,Expense,Cost of Goods Sold,671210.0,625978.0,636326.0
+Sep-26,21,Expense,Payroll,247831.0,241284.0,245722.0
+Sep-26,21,Expense,Marketing,67121.0,63475.0,65638.0
+Sep-26,21,Expense,Logistics & Distribution,98100.0,99085.0,98878.0
+Sep-26,21,Expense,Admin & Overheads,56795.0,58222.0,58796.0
+Oct-26,22,Revenue,Retail Sales,499173.0,504754.0,469018.0
+Oct-26,22,Revenue,Wholesale,332782.0,338295.0,335364.0
+Oct-26,22,Revenue,Online Sales,218388.0,224544.0,226641.0
+Oct-26,22,Revenue,Foodservice,145592.0,141126.0,143876.0
+Oct-26,22,Expense,Cost of Goods Sold,675963.0,737602.0,753624.0
+Oct-26,22,Expense,Payroll,249586.0,250267.0,251762.0
+Oct-26,22,Expense,Marketing,67596.0,71850.0,69980.0
+Oct-26,22,Expense,Logistics & Distribution,98795.0,99014.0,97649.0
+Oct-26,22,Expense,Admin & Overheads,57197.0,52249.0,53875.0
+Nov-26,23,Revenue,Retail Sales,513819.0,547636.0,540745.0
+Nov-26,23,Revenue,Wholesale,342546.0,339585.0,349415.0
+Nov-26,23,Revenue,Online Sales,224796.0,253136.0,252726.0
+Nov-26,23,Revenue,Foodservice,149864.0,170685.0,181613.0
+Nov-26,23,Expense,Cost of Goods Sold,695797.0,620649.0,619124.0
+Nov-26,23,Expense,Payroll,256910.0,265382.0,263264.0
+Nov-26,23,Expense,Marketing,69580.0,74169.0,75385.0
+Nov-26,23,Expense,Logistics & Distribution,101693.0,105234.0,104492.0
+Nov-26,23,Expense,Admin & Overheads,58875.0,52827.0,53669.0
+Dec-26,24,Revenue,Retail Sales,536550.0,497957.0,516840.0
+Dec-26,24,Revenue,Wholesale,357700.0,364214.0,411797.0
+Dec-26,24,Revenue,Online Sales,234741.0,241442.0,222376.0
+Dec-26,24,Revenue,Foodservice,156494.0,181539.0,186035.0
+Dec-26,24,Expense,Cost of Goods Sold,726578.0,779851.0,825405.0
+Dec-26,24,Expense,Payroll,268275.0,254207.0,244535.0
+Dec-26,24,Expense,Marketing,72658.0,76391.0,73298.0
+Dec-26,24,Expense,Logistics & Distribution,106192.0,94868.0,92430.0
+Dec-26,24,Expense,Admin & Overheads,61480.0,60838.0,62486.0
