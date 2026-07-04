@@ -1,22 +1,22 @@
 # Business Case Study: Customer Profitability & Segmentation Analysis
 
-A case study documenting real analytical work from my time at Dhamecha Group (UK FMCG Cash-and-Carry Distribution) — segmenting the customer base by profitability to replace blanket discounting with targeted promotions.
+## Business Problem
+Management needed to know whether uniform, blanket promotional discounting across the entire customer base was helping or hurting margin — and if targeted promotions based on customer value would perform better.
 
-## Overview
-This case study walks through the segmentation methodology, the four customer value tiers identified, the financial modeling used to test promotional scenarios, and the resulting **8% gross margin improvement** — directly evidencing the achievement referenced on my CV.
+## Dataset
+12 months of transactional sales data across the full Dhamecha Group customer base, segmented by purchase frequency, order value, and product mix.
 
-## The Business Challenge
-Promotions were applied uniformly across all customers regardless of profitability or purchasing behavior, eroding margin on price-sensitive accounts while under-investing in high-growth-potential customers.
+## Tools Used
+Excel (Power Query, Power Pivot) for segmentation and profitability analysis; NPV/payback modeling for promotional scenario testing.
 
-## Methodology
-1. **Customer Segmentation** — grouped customers into 4 value tiers by purchase frequency, order value, and product mix
-2. **Profitability Analysis** — mapped gross margin contribution by segment
-3. **NPV / Payback Modeling** — scenario-tested targeted promotions before rollout
+## Key Insights
+- **8% gross margin improvement** after replacing blanket discounting with targeted, segment-based promotions
+- **34% of customers were price-sensitive but contributed only 16% of revenue** — the single segment responsible for most of the margin erosion
+- **3.2-month average payback period** on targeted promotional spend for the Growth Potential segment
 
-## Key Findings
-- **8%** gross margin improvement after replacing blanket discounting with targeted promotions
-- **34%** of customers were price-sensitive but contributed only 16% of revenue — the segment most responsible for margin erosion
-- **3.2 months** average payback period on targeted promotional spend for the Growth Potential segment
+## Presentation Preview
+![Title Slide](./case-study-title.jpg)
+![Key Findings](./case-study-findings.jpg)
 
 ## Financial Impact (Before vs. After)
 | Metric | Before | After | Change |
@@ -33,6 +33,7 @@ Promotions were applied uniformly across all customers regardless of profitabili
 
 ## Files
 - `customer-profitability-case-study.pptx` — full 8-slide presentation
+- `case-study-title.jpg`, `case-study-findings.jpg` — slide previews
 
 ## Note
-This case study illustrates the methodology and impact behind a real achievement on my CV, presented with illustrative figures consistent with the original analysis.
+This case study documents the methodology and impact behind a real achievement referenced on my CV: *"Performed customer segmentation and profitability analysis to support targeted promotions, delivering 8% gross margin improvement."*
