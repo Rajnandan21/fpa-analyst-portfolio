@@ -1,0 +1,289 @@
+Month,MonthIndex,Region,Department,Budget,Actual,Variance,Variance %
+Jan-25,1,London,Retail Sales,208666.0,236886.0,28220.0,13.5
+Jan-25,1,London,Wholesale,139110.0,133925.0,-5185.0,-3.7
+Jan-25,1,London,Online Sales,89428.0,89663.0,235.0,0.3
+Jan-25,1,London,Foodservice,59619.0,61562.0,1943.0,3.3
+Jan-25,1,Manchester,Retail Sales,147805.0,138476.0,-9329.0,-6.3
+Jan-25,1,Manchester,Wholesale,98537.0,98553.0,16.0,0.0
+Jan-25,1,Manchester,Online Sales,63345.0,63340.0,-5.0,-0.0
+Jan-25,1,Manchester,Foodservice,42230.0,36302.0,-5928.0,-14.0
+Jan-25,1,Birmingham,Retail Sales,128242.0,138683.0,10441.0,8.1
+Jan-25,1,Birmingham,Wholesale,85495.0,89602.0,4107.0,4.8
+Jan-25,1,Birmingham,Online Sales,54961.0,52211.0,-2750.0,-5.0
+Jan-25,1,Birmingham,Foodservice,36641.0,36138.0,-503.0,-1.4
+Jan-25,1,Leeds,Retail Sales,91291.0,94982.0,3691.0,4.0
+Jan-25,1,Leeds,Wholesale,60861.0,59588.0,-1273.0,-2.1
+Jan-25,1,Leeds,Online Sales,39125.0,38365.0,-760.0,-1.9
+Jan-25,1,Leeds,Foodservice,26083.0,23051.0,-3032.0,-11.6
+Feb-25,2,London,Retail Sales,217587.0,227241.0,9654.0,4.4
+Feb-25,2,London,Wholesale,145058.0,146496.0,1438.0,1.0
+Feb-25,2,London,Online Sales,93252.0,95299.0,2047.0,2.2
+Feb-25,2,London,Foodservice,62168.0,54576.0,-7592.0,-12.2
+Feb-25,2,Manchester,Retail Sales,154124.0,174477.0,20353.0,13.2
+Feb-25,2,Manchester,Wholesale,102750.0,104018.0,1268.0,1.2
+Feb-25,2,Manchester,Online Sales,66053.0,64008.0,-2045.0,-3.1
+Feb-25,2,Manchester,Foodservice,44036.0,51184.0,7148.0,16.2
+Feb-25,2,Birmingham,Retail Sales,133726.0,133240.0,-486.0,-0.4
+Feb-25,2,Birmingham,Wholesale,89150.0,78804.0,-10346.0,-11.6
+Feb-25,2,Birmingham,Online Sales,57311.0,55453.0,-1858.0,-3.2
+Feb-25,2,Birmingham,Foodservice,38207.0,31213.0,-6994.0,-18.3
+Feb-25,2,Leeds,Retail Sales,95194.0,103186.0,7992.0,8.4
+Feb-25,2,Leeds,Wholesale,63463.0,61349.0,-2114.0,-3.3
+Feb-25,2,Leeds,Online Sales,40798.0,38374.0,-2424.0,-5.9
+Feb-25,2,Leeds,Foodservice,27198.0,29532.0,2334.0,8.6
+Mar-25,3,London,Retail Sales,222680.0,193267.0,-29413.0,-13.2
+Mar-25,3,London,Wholesale,148453.0,154812.0,6359.0,4.3
+Mar-25,3,London,Online Sales,95434.0,79673.0,-15761.0,-16.5
+Mar-25,3,London,Foodservice,63623.0,60253.0,-3370.0,-5.3
+Mar-25,3,Manchester,Retail Sales,157732.0,142536.0,-15196.0,-9.6
+Mar-25,3,Manchester,Wholesale,105154.0,117453.0,12299.0,11.7
+Mar-25,3,Manchester,Online Sales,67599.0,77151.0,9552.0,14.1
+Mar-25,3,Manchester,Foodservice,45066.0,43879.0,-1187.0,-2.6
+Mar-25,3,Birmingham,Retail Sales,136855.0,146060.0,9205.0,6.7
+Mar-25,3,Birmingham,Wholesale,91237.0,89923.0,-1314.0,-1.4
+Mar-25,3,Birmingham,Online Sales,58652.0,61318.0,2666.0,4.5
+Mar-25,3,Birmingham,Foodservice,39102.0,36747.0,-2355.0,-6.0
+Mar-25,3,Leeds,Retail Sales,97423.0,84108.0,-13315.0,-13.7
+Mar-25,3,Leeds,Wholesale,64948.0,55580.0,-9368.0,-14.4
+Mar-25,3,Leeds,Online Sales,41753.0,43032.0,1279.0,3.1
+Mar-25,3,Leeds,Foodservice,27835.0,32840.0,5005.0,18.0
+Apr-25,4,London,Retail Sales,222896.0,227700.0,4804.0,2.2
+Apr-25,4,London,Wholesale,148598.0,142361.0,-6237.0,-4.2
+Apr-25,4,London,Online Sales,95527.0,110139.0,14612.0,15.3
+Apr-25,4,London,Foodservice,63685.0,64894.0,1209.0,1.9
+Apr-25,4,Manchester,Retail Sales,157885.0,159166.0,1281.0,0.8
+Apr-25,4,Manchester,Wholesale,105257.0,107383.0,2126.0,2.0
+Apr-25,4,Manchester,Online Sales,67665.0,66948.0,-717.0,-1.1
+Apr-25,4,Manchester,Foodservice,45110.0,43993.0,-1117.0,-2.5
+Apr-25,4,Birmingham,Retail Sales,136988.0,121262.0,-15726.0,-11.5
+Apr-25,4,Birmingham,Wholesale,91326.0,94990.0,3664.0,4.0
+Apr-25,4,Birmingham,Online Sales,58709.0,58264.0,-445.0,-0.8
+Apr-25,4,Birmingham,Foodservice,39140.0,42875.0,3735.0,9.5
+Apr-25,4,Leeds,Retail Sales,97517.0,94640.0,-2877.0,-3.0
+Apr-25,4,Leeds,Wholesale,65011.0,55097.0,-9914.0,-15.2
+Apr-25,4,Leeds,Online Sales,41793.0,41460.0,-333.0,-0.8
+Apr-25,4,Leeds,Foodservice,27862.0,31650.0,3788.0,13.6
+May-25,5,London,Retail Sales,218491.0,211789.0,-6702.0,-3.1
+May-25,5,London,Wholesale,145661.0,135291.0,-10370.0,-7.1
+May-25,5,London,Online Sales,93639.0,84698.0,-8941.0,-9.5
+May-25,5,London,Foodservice,62426.0,57182.0,-5244.0,-8.4
+May-25,5,Manchester,Retail Sales,154765.0,151048.0,-3717.0,-2.4
+May-25,5,Manchester,Wholesale,103176.0,93437.0,-9739.0,-9.4
+May-25,5,Manchester,Online Sales,66328.0,74274.0,7946.0,12.0
+May-25,5,Manchester,Foodservice,44218.0,43219.0,-999.0,-2.3
+May-25,5,Birmingham,Retail Sales,134281.0,135448.0,1167.0,0.9
+May-25,5,Birmingham,Wholesale,89521.0,99821.0,10300.0,11.5
+May-25,5,Birmingham,Online Sales,57549.0,64470.0,6921.0,12.0
+May-25,5,Birmingham,Foodservice,38366.0,37713.0,-653.0,-1.7
+May-25,5,Leeds,Retail Sales,95590.0,98129.0,2539.0,2.7
+May-25,5,Leeds,Wholesale,63727.0,67474.0,3747.0,5.9
+May-25,5,Leeds,Online Sales,40967.0,40335.0,-632.0,-1.5
+May-25,5,Leeds,Foodservice,27311.0,23427.0,-3884.0,-14.2
+Jun-25,6,London,Retail Sales,210971.0,222021.0,11050.0,5.2
+Jun-25,6,London,Wholesale,140647.0,150711.0,10064.0,7.2
+Jun-25,6,London,Online Sales,90416.0,93422.0,3006.0,3.3
+Jun-25,6,London,Foodservice,60277.0,55824.0,-4453.0,-7.4
+Jun-25,6,Manchester,Retail Sales,149438.0,147094.0,-2344.0,-1.6
+Jun-25,6,Manchester,Wholesale,99625.0,94917.0,-4708.0,-4.7
+Jun-25,6,Manchester,Online Sales,64045.0,62509.0,-1536.0,-2.4
+Jun-25,6,Manchester,Foodservice,42697.0,47126.0,4429.0,10.4
+Jun-25,6,Birmingham,Retail Sales,129659.0,145525.0,15866.0,12.2
+Jun-25,6,Birmingham,Wholesale,86440.0,91069.0,4629.0,5.4
+Jun-25,6,Birmingham,Online Sales,55568.0,58008.0,2440.0,4.4
+Jun-25,6,Birmingham,Foodservice,37046.0,39051.0,2005.0,5.4
+Jun-25,6,Leeds,Retail Sales,92300.0,92209.0,-91.0,-0.1
+Jun-25,6,Leeds,Wholesale,61533.0,61161.0,-372.0,-0.6
+Jun-25,6,Leeds,Online Sales,39557.0,37425.0,-2132.0,-5.4
+Jun-25,6,Leeds,Foodservice,26371.0,26254.0,-117.0,-0.4
+Jul-25,7,London,Retail Sales,202705.0,239353.0,36648.0,18.1
+Jul-25,7,London,Wholesale,135137.0,144532.0,9395.0,7.0
+Jul-25,7,London,Online Sales,86874.0,84496.0,-2378.0,-2.7
+Jul-25,7,London,Foodservice,57916.0,55729.0,-2187.0,-3.8
+Jul-25,7,Manchester,Retail Sales,143583.0,133653.0,-9930.0,-6.9
+Jul-25,7,Manchester,Wholesale,95722.0,98589.0,2867.0,3.0
+Jul-25,7,Manchester,Online Sales,61535.0,63463.0,1928.0,3.1
+Jul-25,7,Manchester,Foodservice,41024.0,36287.0,-4737.0,-11.5
+Jul-25,7,Birmingham,Retail Sales,124579.0,129426.0,4847.0,3.9
+Jul-25,7,Birmingham,Wholesale,83053.0,79269.0,-3784.0,-4.6
+Jul-25,7,Birmingham,Online Sales,53391.0,59485.0,6094.0,11.4
+Jul-25,7,Birmingham,Foodservice,35594.0,36041.0,447.0,1.3
+Jul-25,7,Leeds,Retail Sales,88683.0,100870.0,12187.0,13.7
+Jul-25,7,Leeds,Wholesale,59122.0,56955.0,-2167.0,-3.7
+Jul-25,7,Leeds,Online Sales,38007.0,37132.0,-875.0,-2.3
+Jul-25,7,Leeds,Foodservice,25338.0,25946.0,608.0,2.4
+Aug-25,8,London,Retail Sales,196294.0,212876.0,16582.0,8.4
+Aug-25,8,London,Wholesale,130863.0,136787.0,5924.0,4.5
+Aug-25,8,London,Online Sales,84126.0,75824.0,-8302.0,-9.9
+Aug-25,8,London,Foodservice,56084.0,56905.0,821.0,1.5
+Aug-25,8,Manchester,Retail Sales,139042.0,139289.0,247.0,0.2
+Aug-25,8,Manchester,Wholesale,92695.0,89513.0,-3182.0,-3.4
+Aug-25,8,Manchester,Online Sales,59589.0,56500.0,-3089.0,-5.2
+Aug-25,8,Manchester,Foodservice,39726.0,45280.0,5554.0,14.0
+Aug-25,8,Birmingham,Retail Sales,120639.0,116872.0,-3767.0,-3.1
+Aug-25,8,Birmingham,Wholesale,80426.0,74983.0,-5443.0,-6.8
+Aug-25,8,Birmingham,Online Sales,51703.0,54338.0,2635.0,5.1
+Aug-25,8,Birmingham,Foodservice,34468.0,34829.0,361.0,1.0
+Aug-25,8,Leeds,Retail Sales,85879.0,85358.0,-521.0,-0.6
+Aug-25,8,Leeds,Wholesale,57252.0,60831.0,3579.0,6.3
+Aug-25,8,Leeds,Online Sales,36805.0,38244.0,1439.0,3.9
+Aug-25,8,Leeds,Foodservice,24537.0,25248.0,711.0,2.9
+Sep-25,9,London,Retail Sales,193876.0,208831.0,14955.0,7.7
+Sep-25,9,London,Wholesale,129250.0,132183.0,2933.0,2.3
+Sep-25,9,London,Online Sales,83090.0,78989.0,-4101.0,-4.9
+Sep-25,9,London,Foodservice,55393.0,53788.0,-1605.0,-2.9
+Sep-25,9,Manchester,Retail Sales,137329.0,131605.0,-5724.0,-4.2
+Sep-25,9,Manchester,Wholesale,91552.0,93088.0,1536.0,1.7
+Sep-25,9,Manchester,Online Sales,58855.0,53780.0,-5075.0,-8.6
+Sep-25,9,Manchester,Foodservice,39237.0,33485.0,-5752.0,-14.7
+Sep-25,9,Birmingham,Retail Sales,119153.0,119993.0,840.0,0.7
+Sep-25,9,Birmingham,Wholesale,79435.0,70942.0,-8493.0,-10.7
+Sep-25,9,Birmingham,Online Sales,51065.0,43091.0,-7974.0,-15.6
+Sep-25,9,Birmingham,Foodservice,34044.0,35060.0,1016.0,3.0
+Sep-25,9,Leeds,Retail Sales,84821.0,79996.0,-4825.0,-5.7
+Sep-25,9,Leeds,Wholesale,56547.0,58791.0,2244.0,4.0
+Sep-25,9,Leeds,Online Sales,36352.0,34808.0,-1544.0,-4.2
+Sep-25,9,Leeds,Foodservice,24234.0,22059.0,-2175.0,-9.0
+Oct-25,10,London,Retail Sales,196536.0,176985.0,-19551.0,-9.9
+Oct-25,10,London,Wholesale,131024.0,125627.0,-5397.0,-4.1
+Oct-25,10,London,Online Sales,84230.0,82388.0,-1842.0,-2.2
+Oct-25,10,London,Foodservice,56153.0,52454.0,-3699.0,-6.6
+Oct-25,10,Manchester,Retail Sales,139213.0,136082.0,-3131.0,-2.2
+Oct-25,10,Manchester,Wholesale,92809.0,81404.0,-11405.0,-12.3
+Oct-25,10,Manchester,Online Sales,59663.0,59732.0,69.0,0.1
+Oct-25,10,Manchester,Foodservice,39775.0,34068.0,-5707.0,-14.3
+Oct-25,10,Birmingham,Retail Sales,120788.0,118915.0,-1873.0,-1.6
+Oct-25,10,Birmingham,Wholesale,80525.0,85017.0,4492.0,5.6
+Oct-25,10,Birmingham,Online Sales,51766.0,56288.0,4522.0,8.7
+Oct-25,10,Birmingham,Foodservice,34511.0,39244.0,4733.0,13.7
+Oct-25,10,Leeds,Retail Sales,85985.0,75279.0,-10706.0,-12.5
+Oct-25,10,Leeds,Wholesale,57323.0,60802.0,3479.0,6.1
+Oct-25,10,Leeds,Online Sales,36851.0,40407.0,3556.0,9.6
+Oct-25,10,Leeds,Foodservice,24567.0,26494.0,1927.0,7.8
+Nov-25,11,London,Retail Sales,204006.0,188839.0,-15167.0,-7.4
+Nov-25,11,London,Wholesale,136004.0,140485.0,4481.0,3.3
+Nov-25,11,London,Online Sales,87431.0,100441.0,13010.0,14.9
+Nov-25,11,London,Foodservice,58287.0,51306.0,-6981.0,-12.0
+Nov-25,11,Manchester,Retail Sales,144504.0,150011.0,5507.0,3.8
+Nov-25,11,Manchester,Wholesale,96336.0,104909.0,8573.0,8.9
+Nov-25,11,Manchester,Online Sales,61930.0,58479.0,-3451.0,-5.6
+Nov-25,11,Manchester,Foodservice,41287.0,43212.0,1925.0,4.7
+Nov-25,11,Birmingham,Retail Sales,125379.0,114637.0,-10742.0,-8.6
+Nov-25,11,Birmingham,Wholesale,83586.0,78155.0,-5431.0,-6.5
+Nov-25,11,Birmingham,Online Sales,53734.0,50221.0,-3513.0,-6.5
+Nov-25,11,Birmingham,Foodservice,35823.0,36374.0,551.0,1.5
+Nov-25,11,Leeds,Retail Sales,89253.0,88603.0,-650.0,-0.7
+Nov-25,11,Leeds,Wholesale,59502.0,64044.0,4542.0,7.6
+Nov-25,11,Leeds,Online Sales,38251.0,35374.0,-2877.0,-7.5
+Nov-25,11,Leeds,Foodservice,25501.0,25233.0,-268.0,-1.1
+Dec-25,12,London,Retail Sales,214714.0,231223.0,16509.0,7.7
+Dec-25,12,London,Wholesale,143143.0,149564.0,6421.0,4.5
+Dec-25,12,London,Online Sales,92020.0,82269.0,-9751.0,-10.6
+Dec-25,12,London,Foodservice,61347.0,64612.0,3265.0,5.3
+Dec-25,12,Manchester,Retail Sales,152089.0,146268.0,-5821.0,-3.8
+Dec-25,12,Manchester,Wholesale,101393.0,104519.0,3126.0,3.1
+Dec-25,12,Manchester,Online Sales,65181.0,66749.0,1568.0,2.4
+Dec-25,12,Manchester,Foodservice,43454.0,47693.0,4239.0,9.8
+Dec-25,12,Birmingham,Retail Sales,131960.0,133190.0,1230.0,0.9
+Dec-25,12,Birmingham,Wholesale,87973.0,74926.0,-13047.0,-14.8
+Dec-25,12,Birmingham,Online Sales,56554.0,50356.0,-6198.0,-11.0
+Dec-25,12,Birmingham,Foodservice,37703.0,39908.0,2205.0,5.8
+Dec-25,12,Leeds,Retail Sales,93937.0,91996.0,-1941.0,-2.1
+Dec-25,12,Leeds,Wholesale,62625.0,68326.0,5701.0,9.1
+Dec-25,12,Leeds,Online Sales,40259.0,41140.0,881.0,2.2
+Dec-25,12,Leeds,Foodservice,26839.0,25231.0,-1608.0,-6.0
+Jan-26,13,London,Retail Sales,226194.0,245780.0,19586.0,8.7
+Jan-26,13,London,Wholesale,150796.0,141056.0,-9740.0,-6.5
+Jan-26,13,London,Online Sales,96940.0,81021.0,-15919.0,-16.4
+Jan-26,13,London,Foodservice,64627.0,75297.0,10670.0,16.5
+Jan-26,13,Manchester,Retail Sales,160220.0,135729.0,-24491.0,-15.3
+Jan-26,13,Manchester,Wholesale,106814.0,112252.0,5438.0,5.1
+Jan-26,13,Manchester,Online Sales,68666.0,73823.0,5157.0,7.5
+Jan-26,13,Manchester,Foodservice,45777.0,46316.0,539.0,1.2
+Jan-26,13,Birmingham,Retail Sales,139015.0,120293.0,-18722.0,-13.5
+Jan-26,13,Birmingham,Wholesale,92677.0,100202.0,7525.0,8.1
+Jan-26,13,Birmingham,Online Sales,59578.0,52707.0,-6871.0,-11.5
+Jan-26,13,Birmingham,Foodservice,39719.0,35449.0,-4270.0,-10.8
+Jan-26,13,Leeds,Retail Sales,98960.0,96096.0,-2864.0,-2.9
+Jan-26,13,Leeds,Wholesale,65973.0,70135.0,4162.0,6.3
+Jan-26,13,Leeds,Online Sales,42411.0,43430.0,1019.0,2.4
+Jan-26,13,Leeds,Foodservice,28274.0,30108.0,1834.0,6.5
+Feb-26,14,London,Retail Sales,235738.0,227371.0,-8367.0,-3.5
+Feb-26,14,London,Wholesale,157158.0,154994.0,-2164.0,-1.4
+Feb-26,14,London,Online Sales,101030.0,91840.0,-9190.0,-9.1
+Feb-26,14,London,Foodservice,67354.0,65646.0,-1708.0,-2.5
+Feb-26,14,Manchester,Retail Sales,166981.0,174904.0,7923.0,4.7
+Feb-26,14,Manchester,Wholesale,111321.0,108650.0,-2671.0,-2.4
+Feb-26,14,Manchester,Online Sales,71563.0,74285.0,2722.0,3.8
+Feb-26,14,Manchester,Foodservice,47709.0,45521.0,-2188.0,-4.6
+Feb-26,14,Birmingham,Retail Sales,144880.0,138014.0,-6866.0,-4.7
+Feb-26,14,Birmingham,Wholesale,96587.0,96890.0,303.0,0.3
+Feb-26,14,Birmingham,Online Sales,62092.0,61124.0,-968.0,-1.6
+Feb-26,14,Birmingham,Foodservice,41394.0,43356.0,1962.0,4.7
+Feb-26,14,Leeds,Retail Sales,103135.0,104606.0,1471.0,1.4
+Feb-26,14,Leeds,Wholesale,68757.0,78330.0,9573.0,13.9
+Feb-26,14,Leeds,Online Sales,44201.0,43425.0,-776.0,-1.8
+Feb-26,14,Leeds,Foodservice,29467.0,28931.0,-536.0,-1.8
+Mar-26,15,London,Retail Sales,241127.0,221063.0,-20064.0,-8.3
+Mar-26,15,London,Wholesale,160751.0,161044.0,293.0,0.2
+Mar-26,15,London,Online Sales,103340.0,108985.0,5645.0,5.5
+Mar-26,15,London,Foodservice,68893.0,64813.0,-4080.0,-5.9
+Mar-26,15,Manchester,Retail Sales,170798.0,170120.0,-678.0,-0.4
+Mar-26,15,Manchester,Wholesale,113865.0,120411.0,6546.0,5.7
+Mar-26,15,Manchester,Online Sales,73199.0,72456.0,-743.0,-1.0
+Mar-26,15,Manchester,Foodservice,48799.0,46773.0,-2026.0,-4.2
+Mar-26,15,Birmingham,Retail Sales,148193.0,159729.0,11536.0,7.8
+Mar-26,15,Birmingham,Wholesale,98795.0,99562.0,767.0,0.8
+Mar-26,15,Birmingham,Online Sales,63511.0,65526.0,2015.0,3.2
+Mar-26,15,Birmingham,Foodservice,42341.0,46309.0,3968.0,9.4
+Mar-26,15,Leeds,Retail Sales,105493.0,115159.0,9666.0,9.2
+Mar-26,15,Leeds,Wholesale,70329.0,68375.0,-1954.0,-2.8
+Mar-26,15,Leeds,Online Sales,45211.0,43311.0,-1900.0,-4.2
+Mar-26,15,Leeds,Foodservice,30141.0,30826.0,685.0,2.3
+Apr-26,16,London,Retail Sales,241234.0,238672.0,-2562.0,-1.1
+Apr-26,16,London,Wholesale,160823.0,136380.0,-24443.0,-15.2
+Apr-26,16,London,Online Sales,103386.0,113935.0,10549.0,10.2
+Apr-26,16,London,Foodservice,68924.0,69031.0,107.0,0.2
+Apr-26,16,Manchester,Retail Sales,170874.0,180941.0,10067.0,5.9
+Apr-26,16,Manchester,Wholesale,113916.0,103227.0,-10689.0,-9.4
+Apr-26,16,Manchester,Online Sales,73232.0,80779.0,7547.0,10.3
+Apr-26,16,Manchester,Foodservice,48821.0,46524.0,-2297.0,-4.7
+Apr-26,16,Birmingham,Retail Sales,148259.0,146982.0,-1277.0,-0.9
+Apr-26,16,Birmingham,Wholesale,98839.0,87758.0,-11081.0,-11.2
+Apr-26,16,Birmingham,Online Sales,63539.0,62691.0,-848.0,-1.3
+Apr-26,16,Birmingham,Foodservice,42360.0,41581.0,-779.0,-1.8
+Apr-26,16,Leeds,Retail Sales,105540.0,103975.0,-1565.0,-1.5
+Apr-26,16,Leeds,Wholesale,70360.0,72828.0,2468.0,3.5
+Apr-26,16,Leeds,Online Sales,45231.0,45450.0,219.0,0.5
+Apr-26,16,Leeds,Foodservice,30154.0,32508.0,2354.0,7.8
+May-26,17,London,Retail Sales,236344.0,227493.0,-8851.0,-3.7
+May-26,17,London,Wholesale,157563.0,145008.0,-12555.0,-8.0
+May-26,17,London,Online Sales,101290.0,101136.0,-154.0,-0.2
+May-26,17,London,Foodservice,67527.0,70922.0,3395.0,5.0
+May-26,17,Manchester,Retail Sales,167411.0,184080.0,16669.0,10.0
+May-26,17,Manchester,Wholesale,111607.0,118874.0,7267.0,6.5
+May-26,17,Manchester,Online Sales,71747.0,61614.0,-10133.0,-14.1
+May-26,17,Manchester,Foodservice,47832.0,49274.0,1442.0,3.0
+May-26,17,Birmingham,Retail Sales,145253.0,162223.0,16970.0,11.7
+May-26,17,Birmingham,Wholesale,96836.0,97320.0,484.0,0.5
+May-26,17,Birmingham,Online Sales,62251.0,59681.0,-2570.0,-4.1
+May-26,17,Birmingham,Foodservice,41501.0,42527.0,1026.0,2.5
+May-26,17,Leeds,Retail Sales,103401.0,99238.0,-4163.0,-4.0
+May-26,17,Leeds,Wholesale,68934.0,72458.0,3524.0,5.1
+May-26,17,Leeds,Online Sales,44315.0,44269.0,-46.0,-0.1
+May-26,17,Leeds,Foodservice,29543.0,32835.0,3292.0,11.1
+Jun-26,18,London,Retail Sales,228093.0,237208.0,9115.0,4.0
+Jun-26,18,London,Wholesale,152062.0,143256.0,-8806.0,-5.8
+Jun-26,18,London,Online Sales,97754.0,102483.0,4729.0,4.8
+Jun-26,18,London,Foodservice,65170.0,70050.0,4880.0,7.5
+Jun-26,18,Manchester,Retail Sales,161566.0,154219.0,-7347.0,-4.5
+Jun-26,18,Manchester,Wholesale,107711.0,104042.0,-3669.0,-3.4
+Jun-26,18,Manchester,Online Sales,69243.0,56473.0,-12770.0,-18.4
+Jun-26,18,Manchester,Foodservice,46162.0,49498.0,3336.0,7.2
+Jun-26,18,Birmingham,Retail Sales,140182.0,133591.0,-6591.0,-4.7
+Jun-26,18,Birmingham,Wholesale,93455.0,77587.0,-15868.0,-17.0
+Jun-26,18,Birmingham,Online Sales,60078.0,51577.0,-8501.0,-14.1
+Jun-26,18,Birmingham,Foodservice,40052.0,39338.0,-714.0,-1.8
+Jun-26,18,Leeds,Retail Sales,99791.0,105863.0,6072.0,6.1
+Jun-26,18,Leeds,Wholesale,66527.0,66053.0,-474.0,-0.7
+Jun-26,18,Leeds,Online Sales,42768.0,44382.0,1614.0,3.8
+Jun-26,18,Leeds,Foodservice,28512.0,25999.0,-2513.0,-8.8
