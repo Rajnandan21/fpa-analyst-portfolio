@@ -1,27 +1,42 @@
+
 # Budget vs Actual FP&A Dashboard
 
-An interactive Excel dashboard tracking monthly Revenue and Expense variance, with forecast accuracy tracking — built to mirror the board-ready variance reporting delivered at Dhamecha Group (UK FMCG distribution).
+## Business Problem
+Management needs monthly visibility into budget variances and forecast risk — by revenue line, by expense category, and in aggregate — to flag issues early and support confident capital and resourcing decisions.
 
-## Overview
-This dashboard covers 24 months (Jan-25\u2013Dec-26) of Budget, Actual, and Forecast data across 4 revenue categories and 5 expense categories, with a live month filter, KPI cards, and forecast accuracy tracking \u2014 the core toolkit of a monthly FP&A reporting cycle.
-
-## Key Features
-- **Interactive month filter** \u2014 dropdown selector instantly recalculates all KPIs
-- **Revenue variance KPI** \u2014 Budget vs Actual with automatic green/red conditional formatting
-- **Expense variance KPI** \u2014 tracks cost overruns/underruns separately from revenue
-- **Net variance** \u2014 combined revenue and expense variance impact on the bottom line
-- **Forecast accuracy tracking** \u2014 96.1% full-period accuracy, calculated as 1 minus Mean Absolute Percentage Error (MAPE) between forecast and actual
-- **3 trend charts**: Monthly Revenue (Budget vs Actual), Monthly Expense (Budget vs Actual), and Forecast Accuracy % over time
-- **Variance by category table** \u2014 full-period breakdown across all 9 revenue/expense categories, colour-coded
+## Dataset
+24 months (Jan-25–Dec-26) of Budget, Actual, and Forecast figures across 4 revenue categories (Retail Sales, Wholesale, Online Sales, Foodservice) and 5 expense categories (COGS, Payroll, Marketing, Logistics, Admin). 216 rows total.
 
 ## Tools Used
-- Excel (SUMIFS-driven dynamic filtering, Data Validation dropdowns, conditional formatting, native charts, MAPE-based accuracy calculation)
+Excel (SUMIFS dynamic filtering, Data Validation, conditional formatting, native charting), MAPE-based forecast accuracy methodology.
+
+## Key Insights
+- **Revenue variance:** +0.02% vs. budget (full period) — effectively on target
+- **Expense variance:** -0.08% vs. budget — spend held under control
+- **Forecast accuracy improved to 96.1%**, calculated using Mean Absolute Percentage Error (MAPE) — a methodology that avoids positive/negative errors masking true forecast quality
+- **Net variance:** +£29,783 favorable against plan across the full period
+
+## Dashboard Preview
+![Budget vs Actual Dashboard](./budget-vs-actual-dashboard-screenshot.jpg)
+
+## Executive Summary
+[📄 Download the one-page Executive Summary PDF](./budget-vs-actual-executive-summary.pdf)
+
+## Key Features
+- Interactive month filter — dropdown instantly recalculates all KPIs
+- Revenue & Expense variance KPIs with automatic green/red conditional formatting
+- Net variance combining both revenue and expense impact
+- Forecast accuracy tracking with dedicated trend chart
+- 3 trend charts: Monthly Revenue, Monthly Expense, Forecast Accuracy %
+- Full category-level variance breakdown table
 
 ## Files
-- `budget-vs-actual-dashboard.xlsx` \u2014 the full interactive dashboard (open the **Dashboard** tab)
-- `budget_actual_forecast_data.csv` \u2014 underlying dataset (216 rows: 24 months \u00d7 9 categories)
+- `budget-vs-actual-dashboard.xlsx` — the full interactive dashboard (open the **Dashboard** tab)
+- `budget_actual_forecast_data.csv` — underlying dataset
+- `budget-vs-actual-executive-summary.pdf` — one-page executive summary
+- `budget-vs-actual-dashboard-screenshot.jpg` — dashboard preview image
 
 ## How to Use
 1. Open the workbook in Excel and go to the **Dashboard** tab
 2. Use the Month dropdown (cell C5) to filter Revenue/Expense KPIs to a single month, or leave on "All" for full-period totals
-3. Scroll down to review monthly trend charts and the full category-level variance breakdown
+3. Review monthly trend charts and the full category-level variance breakdown
